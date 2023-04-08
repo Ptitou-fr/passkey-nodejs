@@ -1,0 +1,30 @@
+{
+  "name": "@passkey/nodejs",
+  "version": "0.1.0",
+  "description": "Passkey backend for nodejs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ptitou-fr/passkey-nodejs.git"
+  },
+  "keywords": [
+    "passkey",
+    "react-native",
+    "react",
+    "ios",
+    "android",
+    "nodejs",
+    "authentication",
+    "auth",
+    "password"
+  ],
+  "author": "Patrick Mengarduque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ptitou-fr/passkey-nodejs/issues"
+  },
+  "homepage": "https://github.com/Ptitou-fr/passkey-nodejs#readme"
+}
